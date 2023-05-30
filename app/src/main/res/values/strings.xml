@@ -1,0 +1,33 @@
+<resources>
+    <string name="start_screen">TicketApprentice</string>
+    <string name="app_name">TicketApprentice</string>
+    <string name="ticket_order">Ticket Order</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="venue_desc">House of Blues: Cleveland</string>
+    <string name="startButton">Continue!</string>
+    <string name="back_button">Back</string>
+    <string name="Tame_Impala">Tame Impala</string>
+    <string name="hippo_campus">Hippo Campus</string>
+    <string name="dayglow">Dayglow</string>
+    <string name="m83">M83</string>
+    <string name="one_ticket">One Ticket</string>
+    <string name="two_ticket">Two Tickets</string>
+    <string name="four_ticket">Four Tickets</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="order_details">Quantity: %1$s \nConcert: %2$s \nDate: %3$s \nTotal: %4$s \n\nThank you!</string>
+    <string name="order_tickets">Order Tickets</string>
+    <string name="quantity">Quantity</string>
+    <string name="ticket">Ticket</string>
+    <string name="concerts">Concerts</string>
+    <string name="date">Date</string>
+    <string name="next">Next</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_ticket_order">New Ticket Order</string>
+    <string name="phone_Button">216-318-7511</string>
+    <plurals name="tickets">
+        <item quantity="one">%d ticket</item>
+        <item quantity="other">%d tickets</item>
+    </plurals>
+</resources>
